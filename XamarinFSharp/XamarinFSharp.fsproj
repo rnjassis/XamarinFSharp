@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <EmbeddedResource Remove="MainMenu.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Include="MPage.xaml.fs" />
     <Compile Include="HomePage.xaml.fs" />
     <Compile Include="App.fs" />

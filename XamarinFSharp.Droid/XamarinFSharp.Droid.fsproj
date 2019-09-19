@@ -21,7 +21,7 @@
     <Name>XamarinFSharp.Droid</Name>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <SelectedDevice>Xiaomi Redmi 5 Plus</SelectedDevice>
+    <SelectedDevice>Asus _Z012DC</SelectedDevice>
     <DefaultDevice>Android_Accelerated_x86_Oreo</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
